@@ -47,7 +47,11 @@ function handleClick() {
 d3.selectAll("#filter-btn").on("click", handleClick);
 
 // Build the table when the page loads
-buildTable(tableData)
+buildTable(tableData);
 
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> f2720a971d7c85862389cd4847c465445c9d2797
 

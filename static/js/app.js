@@ -78,3 +78,9 @@ d3.selectAll("input").on("change", updateFilters);
 
 // Build the table when the page loads
 buildTable(tableData);
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 569e29e6e1a3ffda845102f9c2f15500882c76fd

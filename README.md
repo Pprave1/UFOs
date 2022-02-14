@@ -8,5 +8,6 @@
 
    In addition to the date filter created in this module,we added  filters for the city, state, country, and shape, as shown in the following image:
   
-  ![challenge_1.png](static/challenge_1.png)
+  ![challenge_1.png](C:\Users\prave\Priya\OsuBootCampModules\OSU Boot Camp\Module 11\UFOs\static\images/challenge_1.png)
+  
     

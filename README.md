@@ -23,5 +23,6 @@
   ### Recommendation
   
     1) If clear filter button  added that would be easy for the user to reset the page
-    2)A filter on range  for date is a recommended criteria; example- 2010
+    
+    2 )A filter on range  for date is a recommended criteria; example- 2010
     

@@ -15,5 +15,13 @@
   
  ![Challenge_2.png](static/images/Challenge_2.png)
   
+  ## Summary :
   
+  ### Drawback :
+      The user has to use full date format to search instead of just the month or year.Also, the filters requires lower case only.
+      
+  ### Recommendation
+  
+    1) If clear filter button  added that would be easy for the user to reset the page
+    2)A filter on range  for date is a recommended criteria; example- 2010
     

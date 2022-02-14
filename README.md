@@ -5,5 +5,6 @@
    filter parameters like city,shape,country and shape.
    
  ## Results :
- Five list elements for filtering was created to list <li in index.html file.
+
+   In addition to the date filter created in this module,we added  filters for the city, state, country, and shape, as shown in the following image:
    

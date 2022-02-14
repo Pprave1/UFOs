@@ -7,7 +7,13 @@
  ## Results :
 
    In addition to the date filter created in this module,we added  filters for the city, state, country, and shape, as shown in the following image:
+   The page appears like below when land on the page with filters.
   
   ![challenge_1.png](static/images/challenge_1.png)
+  
+  When type the date on placeholder elementas one filter ,for example type  1/1/2010 on Enter Date ,you can see the matches as like in below image.
+  
+ ![Challenge_2.png](static/images/Challenge_2.png)
+  
   
     

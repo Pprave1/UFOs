@@ -8,6 +8,6 @@
 
    In addition to the date filter created in this module,we added  filters for the city, state, country, and shape, as shown in the following image:
   
-  ![challenge_1.png](images/challenge_1.png)
+  ![challenge_1.png](static/images/challenge_1.png)
   
     
